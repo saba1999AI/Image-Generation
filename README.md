@@ -1,7 +1,16 @@
 ## Outputs
+![Fairy garden glowing with oversized flowers and fluttering lights](https://github.com/user-attachments/assets/1a61c24a-6fc0-47a4-a433-8f9f9d3c0569)  Fairy garden glowing with oversized flowers and fluttering lights
+
+![Desert oasis at sunset, with crystal-clear water and palm trees](https://github.com/user-attachments/assets/c3535af2-5345-4bb9-bc11-15f4bcd88e2e)
+
+Desert oasis at sunset, with crystal-clear water and palm trees
 
 
-## Diffusers Integration [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerbt/MultiDiffusion/blob/master/MultiDiffusion_Panorama.ipynb)
+![Ice castle under northern lights, frost-covered sculptures inside](https://github.com/user-attachments/assets/886f60bd-ab27-480b-8ac5-67635d60173c)
+
+Ice castle under northern lights, frost-covered sculptures inside
+
+## [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/omerbt/MultiDiffusion/blob/master/MultiDiffusion_Panorama.ipynb)
 
 ```
 import torch
@@ -24,6 +33,3 @@ We provide a gradio UI for our method. Running the following command in a termin
 ```
 python app_gradio.py
 ```
-This demo is also hosted on HuggingFace [here](https://huggingface.co/spaces/weizmannscience/MultiDiffusion)
-
-
